@@ -14,7 +14,7 @@ Unlike traditional economic research, our methodology utilizes **AI-driven audit
 
 | ID | Title | Target | Key Findings |
 |:--:|:---|:---|:---|
-| **01** | **The Gravitational Stagnation of Tokyo** | Tokyo Metropolis | $R_{fund} \approx 0.47$ (4x National Avg). Mathematical proof of a fiscal "Black Hole" structure. |
+| **01** | **SBCM Case Study_ Comparative Analysis of Fiscal Stagnation and Structural Wealth Extraction in Tokyo, Osaka, and Aichi** | Tokyo Metropolis, Osaka, Aichi | $R_{fund} \approx 0.47$ (4x National Avg). Mathematical proof of a fiscal "Black Hole" structure. |
 
 ## 🛠 Data Availability & Reproducibility
 We adhere to the principles of **Open Science**.

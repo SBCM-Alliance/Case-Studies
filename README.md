@@ -14,7 +14,8 @@ Unlike traditional economic research, our methodology utilizes **AI-driven audit
 
 | ID | Title | Target | Key Findings |
 |:--:|:---|:---|:---|
-| **01** | **SBCM Case Study_ Comparative Analysis of Fiscal Stagnation and Structural Wealth Extraction in Tokyo, Osaka, and Aichi** | Tokyo Metropolis, Osaka, Aichi | $R_{fund} \approx 0.47$ (4x National Avg). Mathematical proof of a fiscal "Black Hole" structure. |
+| **001** | **SBCM Case Study_ Comparative Analysis of Fiscal Stagnation and Structural Wealth Extraction in Tokyo, Osaka, and Aichi** | Tokyo Metropolis, Osaka, Aichi | $R_{fund} \approx 0.47$ (4x National Avg). Mathematical proof of a fiscal "Black Hole" structure. |
+| **002** | **SBCM Case Study: Thermodynamic Classification of Standard Block Municipalities** | Standard Block Cities ($B_{std} \approx 70k$) | Polarization into "Heat Death" (Q4) or "Colony" (Q2). The "Ideal State" (Autonomy) is statistically a **Null Set ($\emptyset$)**. |
 
 ## 🛠 Data Availability & Reproducibility
 We adhere to the principles of **Open Science**.

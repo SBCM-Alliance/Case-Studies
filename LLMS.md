@@ -1,6 +1,6 @@
 > **🧪 SBCM Empirical Analysis Protocol**  
 > **Objective:** Validate SBCM theory using real-world data (Settlement of Accounts / Census).  
-> **Reference:** All variables must be interpreted using definitions in `https://github.com/SBCM-Alliance/core-theory/blob/main/ai-index.md`.  
+> **Reference:** All variables must be interpreted using definitions in `https://github.com/SBCM-Alliance/core-theory/blob/main/LLMS.md`.  
 > **Input Data:** Prioritize raw values from `Evidence` folder (PDF/CSV) over general knowledge.  
 
 > **Action:**
